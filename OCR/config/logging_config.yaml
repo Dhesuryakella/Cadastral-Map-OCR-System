@@ -1,0 +1,39 @@
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  standard:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  error:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s\nException: %(exc_info)s'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: standard
+    stream: ext://sys.stdout
+
+  file:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: standard
+    filename: logs/ocr_system.log
+    mode: a
+
+  error_file:
+    class: logging.FileHandler
+    level: ERROR
+    formatter: error
+    filename: logs/error.log
+    mode: a
+
+loggers:
+  ocr_system:
+    level: DEBUG
+    handlers: [console, file, error_file]
+    propagate: false
+
+root:
+  level: INFO
+  handlers: [console]

@@ -1,0 +1,11 @@
+2025-05-29 13:43:43,223 - INFO - Loaded trained parameters successfully
+2025-05-29 13:43:43,224 - INFO - Initializing EasyOCR...
+2025-05-29 13:43:43,224 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-05-29 13:43:44,324 - INFO - EasyOCR initialized successfully (CPU mode)
+2025-05-29 13:43:47,320 - INFO - Loaded symbol templates: 1006 total templates
+2025-05-29 13:43:47,321 - INFO - Detector initialized successfully
+2025-05-29 13:43:58,183 - INFO - Selected file: D:/dhesurya/OCR/datasets/raw_maps/M1.png
+2025-05-29 13:44:00,395 - INFO - Processing map: D:/dhesurya/OCR/datasets/raw_maps/M1.png
+2025-05-29 13:44:04,218 - INFO - Found 35 text items
+2025-05-29 13:45:26,636 - INFO - Found 4705 symbols
+2025-05-29 13:45:26,755 - INFO - Processing completed successfully

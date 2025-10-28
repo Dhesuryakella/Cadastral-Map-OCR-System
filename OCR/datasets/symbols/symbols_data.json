@@ -1,0 +1,122 @@
+{
+    "boundaries": {
+        "color_range": {
+            "lower": [
+                40,
+                100,
+                100
+            ],
+            "upper": [
+                80,
+                255,
+                255
+            ]
+        },
+        "patterns": [
+            "district_boundary",
+            "state_boundary",
+            "village_boundary"
+        ],
+        "detection_params": {
+            "min_area": 100,
+            "min_size": 10,
+            "max_size": 100
+        }
+    },
+    "settlements": {
+        "color_range": {
+            "lower": [
+                0,
+                0,
+                0
+            ],
+            "upper": [
+                180,
+                50,
+                100
+            ]
+        },
+        "patterns": [
+            "city",
+            "town",
+            "village"
+        ],
+        "detection_params": {
+            "min_area": 100,
+            "min_size": 10,
+            "max_size": 100
+        }
+    },
+    "terrain": {
+        "color_range": {
+            "lower": [
+                20,
+                60,
+                60
+            ],
+            "upper": [
+                30,
+                255,
+                255
+            ]
+        },
+        "patterns": [
+            "hill",
+            "depression",
+            "plateau"
+        ],
+        "detection_params": {
+            "min_area": 100,
+            "min_size": 10,
+            "max_size": 100
+        }
+    },
+    "transport": {
+        "color_range": {
+            "lower": [
+                0,
+                100,
+                100
+            ],
+            "upper": [
+                10,
+                255,
+                255
+            ]
+        },
+        "patterns": [
+            "national_highway",
+            "state_highway",
+            "railway"
+        ],
+        "detection_params": {
+            "min_area": 100,
+            "min_size": 10,
+            "max_size": 100
+        }
+    },
+    "water": {
+        "color_range": {
+            "lower": [
+                100,
+                100,
+                100
+            ],
+            "upper": [
+                130,
+                255,
+                255
+            ]
+        },
+        "patterns": [
+            "river",
+            "lake",
+            "canal"
+        ],
+        "detection_params": {
+            "min_area": 100,
+            "min_size": 10,
+            "max_size": 100
+        }
+    }
+}

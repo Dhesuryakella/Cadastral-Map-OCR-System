@@ -1,0 +1,121 @@
+{
+  "color_thresholds": {
+    "red": {
+      "lower": [150, 0, 0],
+      "upper": [255, 50, 50],
+      "coverage": 6.9,
+      "hsv_range": [
+        [0, 150, 150],
+        [10, 255, 255]
+      ],
+      "noise_reduction": 3
+    },
+    "blue": {
+      "lower": [0, 0, 150],
+      "upper": [50, 50, 255],
+      "coverage": 0.32,
+      "hsv_range": [
+        [100, 150, 150],
+        [130, 255, 255]
+      ],
+      "noise_reduction": 2
+    },
+    "green": {
+      "lower": [0, 150, 0],
+      "upper": [50, 255, 50],
+      "coverage": 5.72,
+      "hsv_range": [
+        [45, 150, 150],
+        [75, 255, 255]
+      ],
+      "noise_reduction": 3
+    },
+    "black": {
+      "lower": [0, 0, 0],
+      "upper": [50, 50, 50],
+      "coverage": 4.95,
+      "hsv_range": [
+        [0, 0, 0],
+        [180, 30, 30]
+      ],
+      "noise_reduction": 2
+    }
+  },
+  "text_detection": {
+    "confidence_threshold": 0.7,
+    "min_text_length": 2,
+    "max_text_length": 50,
+    "color_ranges": {
+      "red": {
+        "lower": [0, 100, 100],
+        "upper": [10, 255, 255]
+      },
+      "black": {
+        "lower": [0, 0, 0],
+        "upper": [180, 50, 100]
+      }
+    }
+  },
+  "symbol_detection": {
+    "match_threshold": 0.8,
+    "min_area": 100,
+    "overlap_threshold": 0.3,
+    "categories": {
+      "water": {
+        "color_range": {
+          "lower": [100, 50, 50],
+          "upper": [130, 255, 255]
+        }
+      },
+      "terrain": {
+        "color_range": {
+          "lower": [20, 50, 50],
+          "upper": [60, 255, 255]
+        }
+      },
+      "transport": {
+        "min_line_length": 100,
+        "max_line_gap": 5,
+        "min_votes": 100
+      }
+    }
+  },
+  "line_detection": {
+    "min_line_length": 64.9,
+    "max_line_gap": 10,
+    "canny_threshold1": 50,
+    "canny_threshold2": 150,
+    "rho": 1,
+    "theta": 0.01745329,
+    "hough_threshold": 30,
+    "min_angle_diff": 5
+  },
+  "preprocessing": {
+    "gaussian_blur_kernel": [3, 3],
+    "bilateral_filter": {
+      "d": 9,
+      "sigma_color": 75,
+      "sigma_space": 75
+    },
+    "clahe": {
+      "clip_limit": 2.0,
+      "tile_grid_size": [8, 8]
+    },
+    "morph_operations": {
+      "kernel_size": [3, 3],
+      "iterations": 1
+    },
+    "max_image_size": 2000,
+    "clahe_clip_limit": 3.0,
+    "clahe_grid_size": [8, 8]
+  },
+  "post_processing": {
+    "min_component_size": 100,
+    "text_overlap_threshold": 0.3,
+    "symbol_overlap_threshold": 0.4,
+    "confidence_boost_threshold": 0.75,
+    "proximity_threshold": 30,
+    "text_similarity_threshold": 0.8,
+    "duplicate_removal_iou": 0.3
+  }
+}

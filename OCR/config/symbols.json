@@ -1,0 +1,1082 @@
+{
+  "transport": [
+    {
+      "text": "Express Highway: with toll; with bridge; with  distance stone",
+      "confidence": 0.5281843578098263,
+      "text_bbox": [
+        [18, 18],
+        [480, 18],
+        [480, 44],
+        [18, 44]
+      ],
+      "symbol_bbox": [0, 18, 18, 44],
+      "y_position": 18
+    },
+    {
+      "text": "Roads metallad: accordlng to Importance",
+      "confidence": 0.4694234399711652,
+      "text_bbox": [
+        [19, 55],
+        [333, 55],
+        [333, 75],
+        [19, 75]
+      ],
+      "symbol_bbox": [0, 55, 19, 75],
+      "y_position": 55
+    },
+    {
+      "text": "Importance",
+      "confidence": 0.7709653524489619,
+      "text_bbox": [
+        [328, 92],
+        [415, 92],
+        [415, 112],
+        [328, 112]
+      ],
+      "symbol_bbox": [278, 92, 328, 112],
+      "y_position": 92
+    },
+    {
+      "text": "Roads double carrlageway: accordlng",
+      "confidence": 0.806272232941678,
+      "text_bbox": [
+        [21, 93],
+        [303, 93],
+        [303, 111],
+        [21, 111]
+      ],
+      "symbol_bbox": [0, 93, 21, 111],
+      "y_position": 93
+    },
+    {
+      "text": "Unmetalled Road; Cart-back. Pack-track and",
+      "confidence": 0.54990604546689,
+      "text_bbox": [
+        [17, 125],
+        [353, 125],
+        [353, 145],
+        [17, 145]
+      ],
+      "symbol_bbox": [0, 125, 17, 145],
+      "y_position": 125
+    },
+    {
+      "text": "pase: Foot-path",
+      "confidence": 0.862630487460956,
+      "text_bbox": [
+        [358, 125],
+        [480, 125],
+        [480, 149],
+        [358, 149]
+      ],
+      "symbol_bbox": [308, 125, 358, 149],
+      "y_position": 125
+    },
+    {
+      "text": "Streams: with track in bed; undefined: Canal",
+      "confidence": 0.5849319452729423,
+      "text_bbox": [
+        [21, 161],
+        [359, 161],
+        [359, 181],
+        [21, 181]
+      ],
+      "symbol_bbox": [0, 161, 21, 181],
+      "y_position": 161
+    },
+    {
+      "text": "road or rall; tanka: Broken ground",
+      "confidence": 0.53964374545945,
+      "text_bbox": [
+        [142, 334],
+        [406, 334],
+        [406, 358],
+        [142, 358]
+      ],
+      "symbol_bbox": [92, 334, 142, 358],
+      "y_position": 334
+    },
+    {
+      "text": "Relhvays, broad gauge: double; slngle wth statlon; under constm",
+      "confidence": 0.3095665857357569,
+      "text_bbox": [
+        [21, 372],
+        [524, 372],
+        [524, 396],
+        [21, 396]
+      ],
+      "symbol_bbox": [0, 372, 21, 396],
+      "y_position": 372
+    }
+  ],
+  "water_features": [
+    {
+      "text": "Dama: masonny",
+      "confidence": 0.3524986322477922,
+      "text_bbox": [
+        [23, 197],
+        [143, 197],
+        [143, 217],
+        [23, 217]
+      ],
+      "symbol_bbox": [0, 197, 23, 217],
+      "y_position": 197
+    },
+    {
+      "text": "River: dry with water channel; with island &",
+      "confidence": 0.6194531732463122,
+      "text_bbox": [
+        [20, 230],
+        [360, 230],
+        [360, 254],
+        [20, 254]
+      ],
+      "symbol_bbox": [0, 230, 20, 254],
+      "y_position": 230
+    },
+    {
+      "text": "river",
+      "confidence": 0.999816764622841,
+      "text_bbox": [
+        [465, 235],
+        [503, 235],
+        [503, 251],
+        [465, 251]
+      ],
+      "symbol_bbox": [415, 235, 465, 251],
+      "y_position": 235
+    },
+    {
+      "text": "Submerged",
+      "confidence": 0.5739283859796822,
+      "text_bbox": [
+        [21, 268],
+        [108, 268],
+        [108, 286],
+        [21, 286]
+      ],
+      "symbol_bbox": [0, 268, 21, 286],
+      "y_position": 268
+    },
+    {
+      "text": "Welle: lined; unlinad; Tube-well; Spring: Tanka:",
+      "confidence": 0.46157688266909086,
+      "text_bbox": [
+        [18, 299],
+        [382, 299],
+        [382, 324],
+        [18, 324]
+      ],
+      "symbol_bbox": [0, 299, 18, 324],
+      "y_position": 299
+    },
+    {
+      "text": "perennial; dry",
+      "confidence": 0.9532154914760992,
+      "text_bbox": [
+        [387, 303],
+        [493, 303],
+        [493, 323],
+        [387, 323]
+      ],
+      "symbol_bbox": [337, 303, 387, 323],
+      "y_position": 303
+    },
+    {
+      "text": "Emnbankmants:",
+      "confidence": 0.7397271184728541,
+      "text_bbox": [
+        [21, 335],
+        [133, 335],
+        [133, 355],
+        [21, 355]
+      ],
+      "symbol_bbox": [0, 335, 21, 355],
+      "y_position": 335
+    },
+    {
+      "text": "RS",
+      "confidence": 0.996369212410046,
+      "text_bbox": [
+        [650, 386],
+        [686, 386],
+        [686, 410],
+        [650, 410]
+      ],
+      "symbol_bbox": [600, 386, 650, 410],
+      "y_position": 386
+    },
+    {
+      "text": "canal",
+      "confidence": 0.38306485281249614,
+      "text_bbox": [
+        [263, 981],
+        [299, 981],
+        [299, 995],
+        [263, 995]
+      ],
+      "symbol_bbox": [213, 981, 263, 995],
+      "y_position": 981
+    },
+    {
+      "text": "Overhead tank",
+      "confidence": 0.7673804949815507,
+      "text_bbox": [
+        [113, 1013],
+        [223, 1013],
+        [223, 1031],
+        [113, 1031]
+      ],
+      "symbol_bbox": [63, 1013, 113, 1031],
+      "y_position": 1013
+    }
+  ],
+  "settlements": [
+    {
+      "text": "20 1|",
+      "confidence": 0.047031814600587765,
+      "text_bbox": [
+        [620, 402],
+        [684, 402],
+        [684, 432],
+        [620, 432]
+      ],
+      "symbol_bbox": [570, 402, 620, 432],
+      "y_position": 402
+    },
+    {
+      "text": "gauge8; double; singla with distance stone: do,",
+      "confidence": 0.6143538630857629,
+      "text_bbox": [
+        [132, 404],
+        [494, 404],
+        [494, 431],
+        [132, 431]
+      ],
+      "symbol_bbox": [82, 404, 132, 431],
+      "y_position": 404
+    },
+    {
+      "text": "Raitave other",
+      "confidence": 0.3377714798499403,
+      "text_bbox": [
+        [23, 409],
+        [128, 409],
+        [128, 429],
+        [23, 429]
+      ],
+      "symbol_bbox": [0, 409, 23, 429],
+      "y_position": 409
+    },
+    {
+      "text": "XXXXXF",
+      "confidence": 0.05806458596790054,
+      "text_bbox": [
+        [535, 417],
+        [601, 417],
+        [601, 431],
+        [535, 431]
+      ],
+      "symbol_bbox": [485, 417, 535, 431],
+      "y_position": 417
+    },
+    {
+      "text": "Klln. Cuttlng",
+      "confidence": 0.32120839354891445,
+      "text_bbox": [
+        [220, 440],
+        [314, 440],
+        [314, 466],
+        [220, 466]
+      ],
+      "symbol_bbox": [170, 440, 220, 466],
+      "y_position": 440
+    },
+    {
+      "text": "Ilne",
+      "confidence": 0.7956929802894592,
+      "text_bbox": [
+        [90, 443],
+        [120, 447],
+        [118, 463],
+        [88, 459]
+      ],
+      "symbol_bbox": [38, 443, 88, 463],
+      "y_position": 443
+    },
+    {
+      "text": "Mlneral",
+      "confidence": 0.9890020900010691,
+      "text_bbox": [
+        [22, 444],
+        [79, 444],
+        [79, 464],
+        [22, 464]
+      ],
+      "symbol_bbox": [0, 444, 22, 464],
+      "y_position": 444
+    },
+    {
+      "text": "tunnel",
+      "confidence": 0.999996447308409,
+      "text_bbox": [
+        [357, 445],
+        [405, 445],
+        [405, 463],
+        [357, 463]
+      ],
+      "symbol_bbox": [307, 445, 357, 463],
+      "y_position": 445
+    },
+    {
+      "text": "ar tramway:",
+      "confidence": 0.9481088896438195,
+      "text_bbox": [
+        [123, 447],
+        [215, 447],
+        [215, 465],
+        [123, 465]
+      ],
+      "symbol_bbox": [73, 447, 123, 465],
+      "y_position": 447
+    },
+    {
+      "text": "witn",
+      "confidence": 0.3912888169288635,
+      "text_bbox": [
+        [319, 447],
+        [351, 447],
+        [351, 463],
+        [319, 463]
+      ],
+      "symbol_bbox": [269, 447, 319, 463],
+      "y_position": 447
+    },
+    {
+      "text": "8",
+      "confidence": 0.9342577182494871,
+      "text_bbox": [
+        [753, 543],
+        [789, 543],
+        [789, 579],
+        [753, 579]
+      ],
+      "symbol_bbox": [703, 543, 753, 579],
+      "y_position": 543
+    },
+    {
+      "text": "Villages:",
+      "confidence": 0.9542453188893385,
+      "text_bbox": [
+        [96, 546],
+        [166, 546],
+        [166, 574],
+        [96, 574]
+      ],
+      "symbol_bbox": [46, 546, 96, 574],
+      "y_position": 546
+    },
+    {
+      "text": "inhabited; daserted: Fort",
+      "confidence": 0.6432006477682627,
+      "text_bbox": [
+        [173, 549],
+        [363, 549],
+        [363, 569],
+        [173, 569]
+      ],
+      "symbol_bbox": [123, 549, 173, 569],
+      "y_position": 549
+    },
+    {
+      "text": "Town8",
+      "confidence": 0.5395749013761475,
+      "text_bbox": [
+        [21, 551],
+        [73, 551],
+        [73, 569],
+        [21, 569]
+      ],
+      "symbol_bbox": [0, 551, 21, 569],
+      "y_position": 551
+    },
+    {
+      "text": "BC Gxut",
+      "confidence": 0.16012387255361143,
+      "text_bbox": [
+        [706, 578],
+        [788, 578],
+        [788, 608],
+        [706, 608]
+      ],
+      "symbol_bbox": [656, 578, 706, 608],
+      "y_position": 578
+    },
+    {
+      "text": "Huts:",
+      "confidence": 0.7073616659504214,
+      "text_bbox": [
+        [19, 585],
+        [63, 585],
+        [63, 605],
+        [19, 605]
+      ],
+      "symbol_bbox": [0, 585, 19, 605],
+      "y_position": 585
+    },
+    {
+      "text": "Towar. Antiquitias",
+      "confidence": 0.6157057717320942,
+      "text_bbox": [
+        [245, 585],
+        [383, 585],
+        [383, 605],
+        [245, 605]
+      ],
+      "symbol_bbox": [195, 585, 245, 605],
+      "y_position": 585
+    },
+    {
+      "text": "parmanent; tomporary_",
+      "confidence": 0.5428198854239188,
+      "text_bbox": [
+        [68, 587],
+        [237, 587],
+        [237, 607],
+        [68, 607]
+      ],
+      "symbol_bbox": [18, 587, 68, 607],
+      "y_position": 587
+    },
+    {
+      "text": "Tomple. Chhatri. Church: Moaque: idgah  Tomb:",
+      "confidence": 0.24691583237227838,
+      "text_bbox": [
+        [20, 616],
+        [386, 616],
+        [386, 643],
+        [20, 643]
+      ],
+      "symbol_bbox": [0, 616, 20, 643],
+      "y_position": 616
+    },
+    {
+      "text": "Fillare: surveyed;  unlocated; village trijunction:",
+      "confidence": 0.537622602954018,
+      "text_bbox": [
+        [108, 902],
+        [462, 902],
+        [462, 931],
+        [108, 931]
+      ],
+      "symbol_bbox": [58, 902, 108, 931],
+      "y_position": 902
+    }
+  ],
+  "terrain": [
+    {
+      "text": "rock-fillad; eprthwork Woir",
+      "confidence": 0.2378153205386218,
+      "text_bbox": [
+        [167, 195],
+        [377, 195],
+        [377, 215],
+        [167, 215]
+      ],
+      "symbol_bbox": [117, 195, 167, 215],
+      "y_position": 195
+    },
+    {
+      "text": "rocks:  Tidal",
+      "confidence": 0.5998841579635038,
+      "text_bbox": [
+        [365, 231],
+        [453, 231],
+        [453, 251],
+        [365, 251]
+      ],
+      "symbol_bbox": [315, 231, 365, 251],
+      "y_position": 231
+    },
+    {
+      "text": "rocks  Shoal: Swamp: Reeds",
+      "confidence": 0.5698837204213159,
+      "text_bbox": [
+        [112, 264],
+        [332, 264],
+        [332, 289],
+        [112, 289]
+      ],
+      "symbol_bbox": [62, 264, 112, 289],
+      "y_position": 264
+    },
+    {
+      "text": "Contours with 8ub-festures. Rocky slopes. Cliffe",
+      "confidence": 0.2578928943001674,
+      "text_bbox": [
+        [20, 476],
+        [386, 476],
+        [386, 502],
+        [20, 502]
+      ],
+      "symbol_bbox": [0, 476, 20, 502],
+      "y_position": 476
+    },
+    {
+      "text": "Sand features: (IJfilat (2)sand-hills (permanent}. (31dunes(shifting}:",
+      "confidence": 0.2781011652101145,
+      "text_bbox": [
+        [21, 515],
+        [505, 515],
+        [505, 535],
+        [21, 535]
+      ],
+      "symbol_bbox": [0, 515, 21, 535],
+      "y_position": 515
+    },
+    {
+      "text": "Scrub",
+      "confidence": 0.9995762655069279,
+      "text_bbox": [
+        [235, 693],
+        [283, 693],
+        [283, 711],
+        [235, 711]
+      ],
+      "symbol_bbox": [185, 693, 235, 711],
+      "y_position": 693
+    },
+    {
+      "text": "Grass_",
+      "confidence": 0.964417825818826,
+      "text_bbox": [
+        [185, 695],
+        [229, 695],
+        [229, 711],
+        [185, 711]
+      ],
+      "symbol_bbox": [135, 695, 185, 711],
+      "y_position": 695
+    }
+  ],
+  "infrastructure": [
+    {
+      "text": "4",
+      "confidence": 0.2440654335685375,
+      "text_bbox": [
+        [634, 616],
+        [666, 616],
+        [666, 640],
+        [634, 640]
+      ],
+      "symbol_bbox": [584, 616, 634, 640],
+      "y_position": 616
+    },
+    {
+      "text": "4 @ ^",
+      "confidence": 0.45139366980436074,
+      "text_bbox": [
+        [676, 616],
+        [786, 616],
+        [786, 642],
+        [676, 642]
+      ],
+      "symbol_bbox": [626, 616, 676, 642],
+      "y_position": 616
+    },
+    {
+      "text": "0",
+      "confidence": 0.5770645785983994,
+      "text_bbox": [
+        [531, 619],
+        [553, 619],
+        [553, 639],
+        [531, 639]
+      ],
+      "symbol_bbox": [481, 619, 531, 639],
+      "y_position": 619
+    },
+    {
+      "text": "0",
+      "confidence": 0.9188755348923259,
+      "text_bbox": [
+        [565, 621],
+        [591, 621],
+        [591, 641],
+        [565, 641]
+      ],
+      "symbol_bbox": [515, 621, 565, 641],
+      "y_position": 621
+    },
+    {
+      "text": "Gravas",
+      "confidence": 0.7161325794159122,
+      "text_bbox": [
+        [391, 623],
+        [443, 623],
+        [443, 639],
+        [391, 639]
+      ],
+      "symbol_bbox": [341, 623, 391, 639],
+      "y_position": 623
+    },
+    {
+      "text": "1",
+      "confidence": 0.9953045065599078,
+      "text_bbox": [
+        [767, 651],
+        [785, 651],
+        [785, 677],
+        [767, 677]
+      ],
+      "symbol_bbox": [717, 651, 767, 677],
+      "y_position": 651
+    },
+    {
+      "text": "Lighthouee: Liqhtship: Buove: lighted; unlighted  Anchorage",
+      "confidence": 0.3961809986414357,
+      "text_bbox": [
+        [20, 654],
+        [472, 654],
+        [472, 681],
+        [20, 681]
+      ],
+      "symbol_bbox": [0, 654, 20, 681],
+      "y_position": 654
+    },
+    {
+      "text": "on bellls_",
+      "confidence": 0.5961067002824928,
+      "text_bbox": [
+        [109, 693],
+        [177, 693],
+        [177, 711],
+        [109, 711]
+      ],
+      "symbol_bbox": [59, 693, 109, 711],
+      "y_position": 693
+    },
+    {
+      "text": "Mlne: Vlne",
+      "confidence": 0.573647090873648,
+      "text_bbox": [
+        [21, 695],
+        [105, 695],
+        [105, 711],
+        [21, 711]
+      ],
+      "symbol_bbox": [0, 695, 21, 711],
+      "y_position": 695
+    },
+    {
+      "text": "palmyra; other. Plantain: Conifer_",
+      "confidence": 0.5926457275609676,
+      "text_bbox": [
+        [78, 726],
+        [324, 726],
+        [324, 750],
+        [78, 750]
+      ],
+      "symbol_bbox": [28, 726, 78, 750],
+      "y_position": 726
+    },
+    {
+      "text": "Palms:",
+      "confidence": 0.9461548953209911,
+      "text_bbox": [
+        [19, 727],
+        [73, 727],
+        [73, 747],
+        [19, 747]
+      ],
+      "symbol_bbox": [0, 727, 19, 747],
+      "y_position": 727
+    },
+    {
+      "text": "Bamboo. Othar troes",
+      "confidence": 0.4275385226976165,
+      "text_bbox": [
+        [331, 727],
+        [491, 727],
+        [491, 747],
+        [331, 747]
+      ],
+      "symbol_bbox": [281, 727, 331, 747],
+      "y_position": 727
+    },
+    {
+      "text": "Areas: cultivated; wooded. Surveyed",
+      "confidence": 0.33744653612863634,
+      "text_bbox": [
+        [20, 761],
+        [300, 761],
+        [300, 786],
+        [20, 786]
+      ],
+      "symbol_bbox": [0, 761, 20, 786],
+      "y_position": 761
+    },
+    {
+      "text": "+60",
+      "confidence": 0.045607614046411026,
+      "text_bbox": [
+        [305, 767],
+        [337, 767],
+        [337, 783],
+        [305, 783]
+      ],
+      "symbol_bbox": [255, 767, 305, 783],
+      "y_position": 767
+    },
+    {
+      "text": "stete: demarcated;",
+      "confidence": 0.4474949460296679,
+      "text_bbox": [
+        [105, 835],
+        [247, 835],
+        [247, 853],
+        [105, 853]
+      ],
+      "symbol_bbox": [55, 835, 105, 853],
+      "y_position": 835
+    },
+    {
+      "text": "undemarcated",
+      "confidence": 0.7822231256974232,
+      "text_bbox": [
+        [253, 835],
+        [359, 835],
+        [359, 853],
+        [253, 853]
+      ],
+      "symbol_bbox": [203, 835, 253, 853],
+      "y_position": 835
+    },
+    {
+      "text": "dlsbrct; subdlvlslon, tahsl or taluk; forest",
+      "confidence": 0.40414967228095183,
+      "text_bbox": [
+        [105, 869],
+        [425, 869],
+        [425, 889],
+        [105, 889]
+      ],
+      "symbol_bbox": [55, 869, 105, 889],
+      "y_position": 869
+    },
+    {
+      "text": "200",
+      "confidence": 0.9961096894983688,
+      "text_bbox": [
+        [548, 934],
+        [590, 934],
+        [590, 960],
+        [548, 960]
+      ],
+      "symbol_bbox": [498, 934, 548, 960],
+      "y_position": 934
+    },
+    {
+      "text": "200",
+      "confidence": 0.9978832963440395,
+      "text_bbox": [
+        [666, 934],
+        [708, 934],
+        [708, 962],
+        [666, 962]
+      ],
+      "symbol_bbox": [616, 934, 666, 962],
+      "y_position": 934
+    },
+    {
+      "text": "Helghte, tlangulated: statlon; polnt; approxdmate:",
+      "confidence": 0.4253908766262612,
+      "text_bbox": [
+        [19, 941],
+        [395, 941],
+        [395, 961],
+        [19, 961]
+      ],
+      "symbol_bbox": [0, 941, 19, 961],
+      "y_position": 941
+    },
+    {
+      "text": "200",
+      "confidence": 0.9218213831368908,
+      "text_bbox": [
+        [755, 941],
+        [787, 941],
+        [787, 959],
+        [755, 959]
+      ],
+      "symbol_bbox": [705, 941, 755, 959],
+      "y_position": 941
+    },
+    {
+      "text": "BM 63-3",
+      "confidence": 0.8102050916345808,
+      "text_bbox": [
+        [542, 970],
+        [632, 970],
+        [632, 996],
+        [542, 996]
+      ],
+      "symbol_bbox": [492, 970, 542, 996],
+      "y_position": 970
+    },
+    {
+      "text": "gaodetic; tertiary;:",
+      "confidence": 0.6093950087165158,
+      "text_bbox": [
+        [119, 972],
+        [258, 972],
+        [258, 1000],
+        [119, 1000]
+      ],
+      "symbol_bbox": [69, 972, 119, 1000],
+      "y_position": 972
+    },
+    {
+      "text": "BM 83+3",
+      "confidence": 0.33727525311727913,
+      "text_bbox": [
+        [665, 975],
+        [737, 975],
+        [737, 995],
+        [665, 995]
+      ],
+      "symbol_bbox": [615, 975, 665, 995],
+      "y_position": 975
+    },
+    {
+      "text": "Bench-mark:",
+      "confidence": 0.6843519792550549,
+      "text_bbox": [
+        [23, 977],
+        [118, 977],
+        [118, 995],
+        [23, 995]
+      ],
+      "symbol_bbox": [0, 977, 23, 995],
+      "y_position": 977
+    },
+    {
+      "text": "Post olfice",
+      "confidence": 0.9533188519906977,
+      "text_bbox": [
+        [21, 1011],
+        [103, 1011],
+        [103, 1032],
+        [21, 1032]
+      ],
+      "symbol_bbox": [0, 1011, 21, 1032],
+      "y_position": 1011
+    },
+    {
+      "text": "Ingpection bungalov. Circuit house  Police station",
+      "confidence": 0.2433004659747701,
+      "text_bbox": [
+        [132, 1043],
+        [512, 1043],
+        [512, 1070],
+        [132, 1070]
+      ],
+      "symbol_bbox": [82, 1043, 132, 1070],
+      "y_position": 1043
+    },
+    {
+      "text": "Rest",
+      "confidence": 0.8632830381393433,
+      "text_bbox": [
+        [21, 1043],
+        [58, 1047],
+        [55, 1068],
+        [18, 1063]
+      ],
+      "symbol_bbox": [0, 1043, 18, 1068],
+      "y_position": 1043
+    },
+    {
+      "text": "house",
+      "confidence": 0.9800629256888143,
+      "text_bbox": [
+        [61, 1049],
+        [107, 1049],
+        [107, 1067],
+        [61, 1067]
+      ],
+      "symbol_bbox": [11, 1049, 61, 1067],
+      "y_position": 1049
+    },
+    {
+      "text": "Camping ground. Forest: resarved; protected",
+      "confidence": 0.6112231520997888,
+      "text_bbox": [
+        [17, 1078],
+        [364, 1078],
+        [364, 1106],
+        [17, 1106]
+      ],
+      "symbol_bbox": [0, 1078, 17, 1106],
+      "y_position": 1078
+    },
+    {
+      "text": "CS",
+      "confidence": 0.08542188223197972,
+      "text_bbox": [
+        [546, 1080],
+        [578, 1080],
+        [578, 1108],
+        [546, 1108]
+      ],
+      "symbol_bbox": [496, 1080, 546, 1108],
+      "y_position": 1080
+    },
+    {
+      "text": "RF",
+      "confidence": 0.945234363410097,
+      "text_bbox": [
+        [655, 1083],
+        [681, 1083],
+        [681, 1103],
+        [655, 1103]
+      ],
+      "symbol_bbox": [605, 1083, 655, 1103],
+      "y_position": 1083
+    },
+    {
+      "text": "PF",
+      "confidence": 0.979569704627699,
+      "text_bbox": [
+        [763, 1085],
+        [789, 1085],
+        [789, 1101],
+        [763, 1101]
+      ],
+      "symbol_bbox": [713, 1085, 763, 1101],
+      "y_position": 1085
+    },
+    {
+      "text": "NAGA",
+      "confidence": 0.9977636337280273,
+      "text_bbox": [
+        [722, 1108],
+        [790, 1108],
+        [790, 1140],
+        [722, 1140]
+      ],
+      "symbol_bbox": [672, 1108, 722, 1140],
+      "y_position": 1108
+    },
+    {
+      "text": "KIKRI",
+      "confidence": 0.987775819350664,
+      "text_bbox": [
+        [534, 1112],
+        [590, 1112],
+        [590, 1138],
+        [534, 1138]
+      ],
+      "symbol_bbox": [484, 1112, 534, 1138],
+      "y_position": 1112
+    },
+    {
+      "text": "Spacad namas; adminiatrative; locality or tibal",
+      "confidence": 0.621794046609343,
+      "text_bbox": [
+        [18, 1116],
+        [380, 1116],
+        [380, 1140],
+        [18, 1140]
+      ],
+      "symbol_bbox": [0, 1116, 18, 1140],
+      "y_position": 1116
+    },
+    {
+      "text": "Dispenaary",
+      "confidence": 0.6909637073161206,
+      "text_bbox": [
+        [335, 1155],
+        [420, 1155],
+        [420, 1181],
+        [335, 1181]
+      ],
+      "symbol_bbox": [285, 1155, 335, 1181],
+      "y_position": 1155
+    },
+    {
+      "text": "Hospital: Dispengbry. Veterinury:hoapital",
+      "confidence": 0.23516065992609697,
+      "text_bbox": [
+        [19, 1157],
+        [323, 1157],
+        [323, 1177],
+        [19, 1177]
+      ],
+      "symbol_bbox": [0, 1157, 19, 1177],
+      "y_position": 1157
+    },
+    {
+      "text": "Aarodroma: Hallpad, Tourlat slte",
+      "confidence": 0.22304757402550768,
+      "text_bbox": [
+        [21, 1193],
+        [267, 1193],
+        [267, 1213],
+        [21, 1213]
+      ],
+      "symbol_bbox": [0, 1193, 21, 1213],
+      "y_position": 1193
+    },
+    {
+      "text": "Pawer line: with pylons surveyed; with",
+      "confidence": 0.34337678632305874,
+      "text_bbox": [
+        [20, 1227],
+        [320, 1227],
+        [320, 1254],
+        [20, 1254]
+      ],
+      "symbol_bbox": [0, 1227, 20, 1254],
+      "y_position": 1227
+    },
+    {
+      "text": "poles unsurveyed",
+      "confidence": 0.5980995628424857,
+      "text_bbox": [
+        [324, 1229],
+        [458, 1229],
+        [458, 1254],
+        [324, 1254]
+      ],
+      "symbol_bbox": [274, 1229, 324, 1254],
+      "y_position": 1229
+    }
+  ],
+  "boundaries": [
+    {
+      "text": "Boundary: intamational",
+      "confidence": 0.6401960442009725,
+      "text_bbox": [
+        [19, 795],
+        [196, 795],
+        [196, 822],
+        [19, 822]
+      ],
+      "symbol_bbox": [0, 795, 19, 822],
+      "y_position": 795
+    },
+    {
+      "text": "Boundary;",
+      "confidence": 0.8887194294123478,
+      "text_bbox": [
+        [19, 902],
+        [100, 902],
+        [100, 928],
+        [19, 928]
+      ],
+      "symbol_bbox": [0, 902, 19, 928],
+      "y_position": 902
+    }
+  ]
+}

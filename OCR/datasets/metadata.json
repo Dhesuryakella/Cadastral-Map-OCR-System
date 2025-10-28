@@ -1,0 +1,88 @@
+{
+  "total_maps": 7,
+  "map_details": [
+    {
+      "id": "45D7 new",
+      "filename": "45D7 new.jpg",
+      "width": 5326,
+      "height": 4964,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "56D11",
+      "filename": "56D11.jpg",
+      "width": 5488,
+      "height": 4917,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "64P13",
+      "filename": "64P13.jpg",
+      "width": 5412,
+      "height": 4985,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "CORRECTED_EDUCATION_SHEEET_WFM_FOR_NGDC_63K12_G44Q12_09DEC19",
+      "filename": "CORRECTED_EDUCATION_SHEEET_WFM_FOR_NGDC_63K12_G44Q12_09DEC19.jpg",
+      "width": 5156,
+      "height": 4914,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "EDUCATION_OSM_FOR_NGDC_G43H3_45F3_09DEC19 (1)",
+      "filename": "EDUCATION_OSM_FOR_NGDC_G43H3_45F3_09DEC19 (1).jpg",
+      "width": 5250,
+      "height": 4945,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "EDUCATION_OSM_FOR_NGDC_G43S10_45D10_09DEC19",
+      "filename": "EDUCATION_OSM_FOR_NGDC_G43S10_45D10_09DEC19.jpg",
+      "width": 5407,
+      "height": 4951,
+      "scale": "1:50,000",
+      "sheet_number": null
+    },
+    {
+      "id": "H43K7_Page_1",
+      "filename": "H43K7_Page_1.jpg",
+      "width": 4971,
+      "height": 4923,
+      "scale": "1:50,000",
+      "sheet_number": null
+    }
+  ],
+  "symbol_categories": {
+    "boundaries": [
+      "international",
+      "state",
+      "district"
+    ],
+    "transport": [
+      "national_highway",
+      "state_highway",
+      "railway"
+    ],
+    "water": [
+      "river",
+      "lake",
+      "tank"
+    ],
+    "settlements": [
+      "city",
+      "town",
+      "village"
+    ],
+    "terrain": [
+      "contour",
+      "forest",
+      "elevation"
+    ]
+  }
+}

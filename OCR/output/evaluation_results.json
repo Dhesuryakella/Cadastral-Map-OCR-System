@@ -1,0 +1,20 @@
+{
+  "average_metrics": {
+    "text_detection": {
+      "avg_precision": NaN,
+      "avg_recall": NaN,
+      "avg_f1": NaN
+    },
+    "symbol_detection": {
+      "avg_precision": NaN,
+      "avg_recall": NaN,
+      "avg_f1": NaN
+    },
+    "boundary_detection": {
+      "avg_precision": NaN,
+      "avg_recall": NaN,
+      "avg_f1": NaN
+    }
+  },
+  "detailed_results": []
+}
